@@ -1,0 +1,1 @@
+export {sendToQueue} from "./src/queue";
