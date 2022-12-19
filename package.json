@@ -1,6 +1,6 @@
 {
   "name": "@warerebel/amqp_queue_management",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Module which sends data to an amqp queue, and which can hold data in a memory buffer whilst waiting for sending credit to become available.",
   "main": "dist/index.js",
   "scripts": {
